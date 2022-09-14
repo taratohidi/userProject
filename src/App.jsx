@@ -1,7 +1,8 @@
 import React from "react";
+import AddUsers from "./components/Users/AddUsers";
 
 function App() {
-  return <div>user Project</div>;
+  return <AddUsers />;
 }
 
 export default App;
